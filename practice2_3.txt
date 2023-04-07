@@ -1,0 +1,32 @@
+Customer
+    Properties =
+        Full name
+        Address
+        Contact informations
+    Behaviours = 
+        Order products
+        Enter payment
+        Leave review
+
+Snake Box 
+    Properties =
+        Size
+        Delivery location
+        Price
+    Behaviours =
+        Customize
+        Get current location
+        Get delivery status
+
+Order 
+    Properties =
+        Customer name
+        Date
+        Snake box ID
+    Behaviours =
+        Start Order
+        Process Order
+        Ship Orde
+     
+
+
